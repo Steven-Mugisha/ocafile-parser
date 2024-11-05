@@ -1,1 +1,0 @@
-for<'a> fn(std::option::Option<oca_bundle_semantics::state::oca::OCABundle>, &'a oca_ast_semantics::ast::OCAAst) -> Result<OCABuild, Vec<oca_bundle_semantics::build::Error>> {oca_bundle_semantics::build::from_ast}
